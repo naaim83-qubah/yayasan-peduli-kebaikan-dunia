@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#0B513B" />
+    <meta name="theme-color" content="#12304A" />
     <meta name="description" content="Lembaga Kemanusiaan &amp; Pembangunan Berkelanjutan yang membangun jalur dari pendidikan menuju keterampilan, kesiapan kerja, peluang, dan kemandirian keluarga." />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="id_ID" />
